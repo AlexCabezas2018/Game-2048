@@ -1,5 +1,5 @@
 # Game-2048
-Prácica de programación de la asignatura de Tecnología de la Programación (TP).
+Práctica de programación de la asignatura de Tecnología de la Programación (TP).
 La práctica consiste en el videojuego llamado "2048" sin interfaz gráfica, usando unicamente la consola
 para introducir comandos.
 Posee, además del modo de juego clásico, otros, como inverso, fibonacci, etc. Dichos modos de juegos tienen reglas distintas,
